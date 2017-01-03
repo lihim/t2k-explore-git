@@ -1,0 +1,5 @@
+tempfile.txt
+*.zip
+*.rar
+log/*.log
+log/*.log[0*9]
