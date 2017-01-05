@@ -3,4 +3,3 @@ tempfile.txt
 *.rar
 log/*.log
 log/*.log[0*9]
-assert/photoshops
