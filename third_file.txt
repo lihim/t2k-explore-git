@@ -1,8 +1,0 @@
-this is the second file that I added to my project. 
-<<<<<<< HEAD
-trying to revert
-
-=======
-
-11
->>>>>>> parent of 8dc20ba... message to revert
